@@ -1,14 +1,14 @@
 {
   "name": "jsonapi",
   "version": "0.0.1",
-  "description": "JSON API Test Applocation",
+  "description": "JSON API Test Application",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/S035779/jsonapi.git"
+    "url": "git+https://github.com/S035779/jsonApi.git"
   },
   "keywords": [
     "jsonapi"
@@ -16,9 +16,9 @@
   "author": "Mamoru Hashimoto",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/S035779/jsonapi/issues"
+    "url": "https://github.com/S035779/jsonApi/issues"
   },
-  "homepage": "https://github.com/S035779/jsonapi#readme",
+  "homepage": "https://github.com/S035779/jsonApi#readme",
   "dependencies": {
     "body-parser": "^1.15.1",
     "express": "^4.13.4",
